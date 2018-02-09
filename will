@@ -1,0 +1,13 @@
+beginShape();
+vertex(81,108);
+bezierVertex(102,303,180,6,158,182);
+bezierVertex(328,27,85,304,81,108);
+endShape();
+line(277,99,276,211);
+strokeWeight(9);
+stroke(36, 36, 36);
+point(277,90);
+strokeWeight(1);
+line(371,94,368,220);
+line(337,95,334,220);
+
